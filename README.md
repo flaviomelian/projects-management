@@ -6,7 +6,6 @@
 
 - **Gestión de Proyectos**: Crea, actualiza y elimina proyectos con facilidad.
 - **Administración de Usuarios**: Registra y gestiona usuarios asociados a proyectos.
-- **Sistema de Correos Internos**: Envía y recibe mensajes entre usuarios dentro de la plataforma.
 - **API RESTful**: Endpoints claros y estructurados para interactuar con la aplicación.
 - **Integración con Frontend**: Compatible con aplicaciones frontend como React para una experiencia de usuario completa.
 
